@@ -1,4 +1,31 @@
 .welcome-card img {
-  max-height: 35vh;
+  max-height: 55vh;
   overflow: hidden;
 }
+
+.header-md {
+  background-color: rgb(107, 252, 50);
+  color: #1b1b1b;
+  font-weight: bold;
+  height: auto;
+ }
+
+ ion-title {
+   text-align: center;
+   font-size: 2.5em;
+   
+   
+ }
+
+ ion-content {
+   background-color: #101010;
+ }
+
+ ion-card-subtitle {
+   font-size: 3em;
+   color: rgb(0, 0, 0);
+ }
+ .welcome-card {
+   background-color: #d5ecff;
+ }
+
